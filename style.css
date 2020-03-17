@@ -1,0 +1,21 @@
+* {
+    margin: 0 auto;
+    font-family: 'Heebo', sans-serif;
+}
+ul {
+    color: #270CD3;
+}
+span {
+    color: #BD112D;
+}
+td:nth-last-child(1) {
+    color: #FBF68D;
+}
+td {
+    font-weight: 600;
+    font-size: 14px;
+}
+th {
+    font-weight: 800;
+    font-size: 15px;
+}
