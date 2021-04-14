@@ -22,7 +22,7 @@ const ul = `
 div.innerHTML = ul;
 // Создать изображение 
 const img = document.createElement('img');
-img.src = 'img/1.jpeg'
+img.src = '1.jpeg'
 img.width = 340;
 img.classList.add('js');
 img.alt = 'Javascript';
